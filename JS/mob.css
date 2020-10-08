@@ -1,0 +1,27 @@
+.navbar a{
+    display: block;
+}
+
+.main{
+    height: 500px;
+}
+
+.left{
+    height: 500px;
+}
+
+
+.left ul li {
+    list-style-type: none;
+    margin-top: 10px;
+    font-size: 20px;
+  
+} 
+
+.mid{
+    height: 500px;
+}
+
+.right{
+    height: 500px;
+}
